@@ -107,14 +107,14 @@ body {
 
   /* 6 */
   #mind{
-      position: absolute;
+      position: fixed;
       right: 0;
 
   }
 
   /* 7 */
   #time{
-      position: absolute;
+      position: fixed;
       right: 0;
       top: 0;
   }
@@ -136,9 +136,6 @@ body {
       z-index: 2;
   }
 
-  #mind{
-      position: fixed;
-  }
 
   #reality {
       z-index: 3;
